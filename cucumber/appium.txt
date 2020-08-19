@@ -1,0 +1,6 @@
+[caps]
+platformName = "Android"
+deviceName = "emulator-5554"
+app = 'C:\ProjetoAppium-desafio\app-release.apk'
+appPackage = "br.com.liveloincentivo"
+noReset = true
